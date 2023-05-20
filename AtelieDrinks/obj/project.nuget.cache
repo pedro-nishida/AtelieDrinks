@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PBOJMd3l04sUf2GGePWhrkjkfcH5gV6GeSr653GI/LqsN2WIOK3XXivBlKXBYsw4Pocn8Z3Tm19JypdiN1qeCA==",
+  "dgSpecHash": "Uu5mVzRp2/6fGi7AC52USz7gPFcaBTApXLsozPibVMmzIPjhLhG1fouyKDrQLk80C1CawQFGKA9CTPd0tlvA4g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\phfuj\\source\\repos\\AtelieDrinks\\AtelieDrinks\\AtelieDrinks.csproj",
+  "projectFilePath": "C:\\Users\\phfuj\\Source\\Repos\\AtelieDrinks\\AtelieDrinks\\AtelieDrinks.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\phfuj\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\phfuj\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

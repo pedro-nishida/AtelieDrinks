@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\phfuj\\source\\repos\\AtelieDrinks\\AtelieDrinks\\AtelieDrinks.csproj": {}
+    "C:\\Users\\phfuj\\Source\\Repos\\AtelieDrinks\\AtelieDrinks\\AtelieDrinks.csproj": {}
   },
   "projects": {
-    "C:\\Users\\phfuj\\source\\repos\\AtelieDrinks\\AtelieDrinks\\AtelieDrinks.csproj": {
+    "C:\\Users\\phfuj\\Source\\Repos\\AtelieDrinks\\AtelieDrinks\\AtelieDrinks.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\phfuj\\source\\repos\\AtelieDrinks\\AtelieDrinks\\AtelieDrinks.csproj",
+        "projectUniqueName": "C:\\Users\\phfuj\\Source\\Repos\\AtelieDrinks\\AtelieDrinks\\AtelieDrinks.csproj",
         "projectName": "AtelieDrinks",
-        "projectPath": "C:\\Users\\phfuj\\source\\repos\\AtelieDrinks\\AtelieDrinks\\AtelieDrinks.csproj",
+        "projectPath": "C:\\Users\\phfuj\\Source\\Repos\\AtelieDrinks\\AtelieDrinks\\AtelieDrinks.csproj",
         "packagesPath": "C:\\Users\\phfuj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\phfuj\\source\\repos\\AtelieDrinks\\AtelieDrinks\\obj\\",
+        "outputPath": "C:\\Users\\phfuj\\Source\\Repos\\AtelieDrinks\\AtelieDrinks\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\phfuj\\AppData\\Roaming\\NuGet\\NuGet.Config",
